@@ -222,7 +222,9 @@ input, select, textarea {
 		position: fixed;
 		top: 0;
 	}
-
+	h1 {
+		text-shadow: 4px 4px #000000;
+	}
 	@-moz-keyframes bg {
 		0% {
 			-moz-transform: translate3d(0,0,0);
